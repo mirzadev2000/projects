@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar app</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="planner">
+        <h1>Calendar app</h1>
+        <div id="calendar" class="calendar-grid"></div>
+    </div>
+
+<button class="add-task-btn" onclick="showAddTaskModal()">Dodaj događaj</button>
+
+    <div id="addTaskModal" class="Modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeAddTaskModal()">&times; </span>
+            <h2>Dodaj Događaj</h2>
+            <input type="date" id="task-date">
+            <input type="text" id="task-desc" placeholder="Opis Zadatka">
+            <button onclick="addTask()">Dodaj Događaj</button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
