@@ -17,7 +17,7 @@ Ovaj projekat je kreiran za pretraživanje Wikipedia članaka na Engleskom jezik
 Slijedite ove korake da biste pokrenuli aplikaciju:
 1.  Klonirajte repozitorij: `git clone https://github.com/mirzadev2000/projects`
 2.  Otvoriti projekat u IDE-u (VS Code).
-3.  Pokrenutu klasu HTML u VS Code-u za pokretanje aplikacije (Preko Liveservera).
+3.  Pokrenuti klasu HTML Index.html u VS Code-u za pokretanje aplikacije (Preko Liveservera).
 
 ### Status Projekta
 Projekat je završen
