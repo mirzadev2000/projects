@@ -15,9 +15,9 @@ Ovaj projekat je kreiran za prijavu/registraciju korisnika. Svrha mu je da demon
 ### Pokretanje Projekta (Lokalna Instalacija)
 
 Slijedite ove korake da biste pokrenuli aplikaciju:
-1.  Klonirajte repozitorij: `git clone https://github.com/mirzadev2000/projects`
-2.  Otvorite projekat u svom IDE-u (VS Code).
-4.  Pokrenite klasu Index.html za start Web Aplikacije
+1.  Klonirati repozitorij: `git clone https://github.com/mirzadev2000/projects`
+2.  Otvoriti projekat u svom IDE-u (VS Code).
+3.  Pokrenuti klasu Index.html za start Web Aplikacije
 
 ### Status Projekta
 Projekat je 70 % završen planirano je dodavanje baze 
