@@ -16,12 +16,12 @@ Ovaj projekat je kreiran za praćenje datuma i kreiranje podsjetnika za događaj
 ### Pokretanje Projekta (Lokalna Instalacija)
 
 Slijedite ove korake da biste pokrenuli aplikaciju:
-1.  Klonirajte repozitorij: `git clone https://github.com/mirzadev2000/projects`
-2.  Otvorite projekat u svom IDE-u (VS Code).
+1.  Klonirati repozitorij: `git clone https://github.com/mirzadev2000/projects`
+2.  Otvoriti projekat u svom IDE-u (VS Code).
 3.  Pokrenuti klasu HTML za start Web Aplikacije.
 
 ### Status Projekta
-Projekat je 80 % završen planirano je uređenje aplikacije
+Projekat je 80 % završen planirano je dodatno uređenje aplikacije
 
 
 ---
