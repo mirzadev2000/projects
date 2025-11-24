@@ -23,4 +23,4 @@ Slijedite ove korake da biste pokrenuli aplikaciju:
 Projekat je 70 % završen planirano je dodavanje baze 
 
 ---
-**Kontakt:** huseinbasicm09@gmail.com | https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
+**Kontakt:** email: huseinbasicm09@gmail.com | LinkedIn:  https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
