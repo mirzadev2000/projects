@@ -9,7 +9,7 @@ Ovaj projekat je kreiran za povezivanje sa API-em te provjeravanje vremenske pro
 
 ### Funkcionalnosti
 * Dohvata sve gradove svijeta
-* Informacije kolika je temperatura
+* Informacije kolika je temperatura u gradovima
   
 
 ### Pokretanje Projekta (Lokalna Instalacija)
@@ -23,4 +23,4 @@ Slijedite ove korake da biste pokrenuli aplikaciju:
 Projekat je 80 % završen. Planiram dodati i opciju kakvo će vrijeme biti za 30 dana
 
 ---
-**Kontakt:** huseinbasicm09@gmail.com | https://www.linkedin.com/in/mirza-huseinbasic-905ab9240
+**Kontakt:** e-mail: huseinbasicm09@gmail.com |LinkedIn https://www.linkedin.com/in/mirza-huseinbasic-905ab9240
