@@ -23,4 +23,4 @@ Slijedite ove korake da biste pokrenuli aplikaciju:
 Projekat je završen
 
 ---
-**Kontakt:** huseinbasicm09@gmail.com | https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
+**Kontakt:** e-mail: huseinbasicm09@gmail.com | LinkedIn: https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
