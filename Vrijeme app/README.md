@@ -17,7 +17,7 @@ Ovaj projekat je kreiran za povezivanje sa API-em te provjeravanje vremenske pro
 Slijedite ove korake da biste pokrenuli aplikaciju:
 1.  Klonirati repozitorij: `git clone https://github.com/mirzadev2000/projects`
 2.  Otvoriti projekat u svom IDE-u (VS Code).
-3.  Pokrenuti klasu [Glavna klasa (index.html)] preko web servera za start Web Aplikacije.
+3.  Pokrenuti klasu index.html preko web servera za start Web Aplikacije.
 
 ### Status Projekta
 Projekat je 80 % završen. Planiram dodati i opciju kakvo će vrijeme biti za 30 dana
