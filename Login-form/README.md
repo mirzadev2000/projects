@@ -5,7 +5,7 @@ Ovaj projekat je kreiran za prijavu/registraciju korisnika. Svrha mu je da demon
 
 ### Korištene Tehnologije (Tech Stack)
 * **Back-end:** HTML 5, CSS 3, JavaScript ES5
-* **Alati/** Git
+* **Alati** Git
 
 ### Funkcionalnosti
 * Prijava Korisnika
