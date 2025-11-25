@@ -20,7 +20,7 @@ Slijedite ove korake da biste pokrenuli aplikaciju:
 3.  Pokrenuti klasu Index.html za start Web Aplikacije
 
 ### Status Projekta
-Projekat je 70 % završen planirano je dodavanje baze 
+Projekat je 70 % završen planirano je dodavanje baze podataka 
 
 ---
 **Kontakt:** email: huseinbasicm09@gmail.com | LinkedIn:  https://www.linkedin.com/in/mirza-huseinbasic-905ab9240/
